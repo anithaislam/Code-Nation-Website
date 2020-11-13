@@ -1,0 +1,111 @@
+.supernatural-bg {
+  background: url(Samdeanbaby_1.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  background-color: rgb(0, 0, 0, 0.5);
+  padding: 28px;
+  color: white;
+  margin: 20px;
+  font-size: 20px;
+}
+
+#makeMePink {
+  color: palevioletred;
+}
+
+.turq {
+  background: url(turq.jpg);
+  background-size: cover;
+}
+
+.floral-bg {
+  background: url(bloom.jpg);
+  background-size: cover;
+}
+
+h2 {
+  text-align: left;
+  color:#5e0ff1;
+  background-color: rgb(0, 0, 0, 0.5);
+  padding: 28px;
+  margin: 30px;
+}
+
+h3 {
+  text-align: left;
+  color: palevioletred;
+  background-color: rgb(0, 0, 0, 0.5);
+  padding: 28px;
+  margin: 30px;
+}
+
+/* .gaudi1 {
+  background: url(gaudi1.jpg);
+  background-size: cover;
+}
+
+.gaudi2 {
+  background: url(gaudi2.jpg);
+  background-size: cover;
+}
+
+.gaudi3 {
+  background: url(gaudi3.jpg);
+  background-size: cover;
+}
+
+.gaudi4 {
+  background: url(gaudi4.jpg);
+  background-size: cover;
+} */
+
+
+.button {
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.box {
+  color:white;
+  font-size: 50px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+  padding:15px;
+  flex: 1;
+  width: 100%;
+  /* position: fixed; */
+  top: 0;
+}
+.box1 { background: darkmagenta;}
+.box2 { background:#ff6348;}
+.box3 { background:#ff7f50;}
+.box4 { background:#ff4757;}
+.box5 { background:#f1c40f;}
+.box6 { background:#e67e22;}
+.box7 { background:#2ed573;}
+.box8 { background:#1e90ff;}
+.box9 { background:#c56cf0;}
+.box10 { background:#18dcff;}
+/* .div_navbar {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-size-adjust: none;
+} */
+/* .hide {
+  display: none;
+} */

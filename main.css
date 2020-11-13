@@ -1,0 +1,113 @@
+h2 { text-align: center;}
+body {
+    font-family: "Lato:ital";
+    font-size: 30px;
+    }
+a:link {
+    color: darkcyan;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited {
+    color: #800000;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:hover {
+    color: honeydew;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+a:active {
+    color: hotpink;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+.container {
+    display: flex;
+    flex-direction: row;
+    /* background-color: #704214; */
+  }
+.box {
+    font-size: 40px;
+    /* font-family: 'Montserrat Alternates', sans-serif; */
+    text-align: center;
+    padding:5px;
+    flex: 1;
+    width: 100%;
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.75), 0 10px 30px 0 rgba(0, 0, 0, 0.75);
+    /* position: fixed; */
+    top: 0;
+    /* display: flex;
+    flex-direction: row; */
+    }
+.box1 { background: rgba(144, 179, 158, 0.61);}
+.box2 { background: rgba(140, 221, 174, 0.61);}
+.box3 { background: rgba(196, 214, 233, 0.61);}
+.box4 { background: rgba(144, 179, 158, 0.61);}
+.box5 { background: rgba(140, 221, 174, 0.61);}
+.box6 { background: rgba(196, 214, 233, 0.61);}
+
+.supernatural-bg {
+    background: url(Samdeanbaby_1.jpg);
+    background-size: cover;
+  }
+  
+  h1 {
+    font-size: 48px;
+    text-align: center;
+    
+  }
+  
+  p {
+    text-align: left;
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 28px;
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+  }
+.navbarspn {
+    font-size: 30px;
+    text-align: left;
+}  
+
+.cnlogo {
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    }
+
+#makeMePink {
+    /* color: palevioletred; */
+  color: black;
+  align-content: center;
+  }
+  
+  .turq {
+    background: url(turq.jpg);
+    background-size: cover;
+  }
+  
+  /* .floral-bg {
+    background: url(bloom.jpg);
+    background-size: cover;
+  } */
+  
+  h2 {
+    text-align: left;
+    color: mediumseagreen;
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 28px;
+    margin: 30px;
+  }
+  
+  h3 {
+    text-align: left;
+    color: palevioletred;
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 28px;
+    margin: 30px;
+  }
